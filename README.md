@@ -6,3 +6,4 @@ The exips repository is here to document Elixium Network design decisions as wel
 | [EXIP-0000](https://github.com/ElixiumNetwork/exips/blob/master/EXIP-0000.md)| EXIP Template | Informational | Accepted |
 | [EXIP-0001](https://github.com/ElixiumNetwork/exips/blob/master/EXIP-0001.md) | Smooth Token Emission in Block Rewards | Standard | Accepted |
 | [EXIP-0002](https://github.com/ElixiumNetwork/exips/blob/master/EXIP-0002.md) | More Highly Reactive Difficulty Scaling Algorithm | Standard | Draft |
+| [EXIP-0003](https://github.com/ElixiumNetwork/exips/blob/master/EXIP-0003.md) |  Secure Storage of Sensitive Application Data On Chain | Research | Draft |
